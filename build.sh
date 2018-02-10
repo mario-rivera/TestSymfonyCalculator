@@ -12,6 +12,7 @@ install(){
     build_image
     composer
     npminstall
+    browserify
     web_up
 }
 
