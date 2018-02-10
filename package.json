@@ -1,0 +1,8 @@
+{
+    "name": "calc",
+    "devDependencies": {
+        "browserify": "^16.0.0"
+    },
+    "license": "UNLICENSED",
+    "private": true
+}
